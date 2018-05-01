@@ -32,3 +32,9 @@ Of course you have been impeded by bad code. So then—why did you write it? Wer
 * Most managers want good code, even when they are obsessing about the schedule. They may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion.
 * To drive this point home, what if you were a doctor and had a patient who demanded that you stop all the silly hand-washing in preparation for surgery because it was taking too much time?2 Clearly the patient is the boss; and yet the doctor should absolutely refuse to comply. Why? Because the doctor knows more than the patient about the risks of dis- ease and infection. It would be unprofessional (never mind criminal) for the doctor to comply with the patient.
 So too it is unprofessional for programmers to bend to the will of managers who don’t understand the risks of making messes.
+
+### The Primal Conundrum
+
+* True professionals know that the second part of the conundrum is wrong. 
+You will _not_ make the deadline by making the mess. Indeed, _the mess will_ slow you down instantly, and will force you to miss the deadline. 
+The _only way_ to make the deadline—the only way to go fast—is to _keep the code as clean as possible_ at all times.
