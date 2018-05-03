@@ -42,3 +42,8 @@ But _being able to recognize good art from bad does not mean that we know how to
 So too being able to recognize clean code from dirty code does not mean that we know how to write clean code!
 * A programmer without “code-sense” can look at a messy module and recognize the mess but will have no idea what to do about it.
 * A programmer with “code-sense” will look at a messy module and see options and variations. The “code-sense” will help that pro- grammer choose the best variation and guide him or her to plot a sequence of behavior preserving transformations to get from here to there.
+
+## We are Authors
+* The `@author` field of a Javadoc tells us who we are. We are authors. And one thing about authors is that they have readers.
+* Indeed, authors are responsible for communicating well with their readers.
+* The next time you write a line of code, remember you are an author, writing for readers who will judge your effort.
