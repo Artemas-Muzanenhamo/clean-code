@@ -3,6 +3,10 @@
 # Index
 
 1. [Clean Code](#clean-code)
+    * [There Will Be Code](##There Will Be Code)
+    * [Bad Code](##Bad Code)
+    * [The Total Cost of Owing a Mess](##The Total Cost of Owing a Mess)
+    * [We are Authors](##We are Authors)
 
 # 1. Clean Code
 ## There Will Be Code
