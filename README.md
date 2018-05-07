@@ -3,10 +3,10 @@
 # Index
 
 1. [Clean Code](#clean-code)
-    * [There Will Be Code](#There Will Be Code)
-    * [Bad Code](#Bad Code)
-    * [The Total Cost of Owing a Mess](#The Total Cost of Owing a Mess)
-    * [We are Authors](#We are Authors)
+    * [There Will Be Code](#there-will-be-code)
+    * [Bad Code](#bad-code)
+    * [The Total Cost of Owing a Mess](#the-total-cost-of-owning a Mess)
+    * [We are Authors](#we-are-authors)
 
 # 1. Clean Code
 ## There Will Be Code
@@ -19,7 +19,7 @@
 * Have you ever been significantly impeded by bad code? If you are a programmer of any experience then you’ve felt this impediment many times.
 Of course you have been impeded by bad code. So then—why did you write it? Were you trying to go fast? Were you in a rush? 
 
-## The Total Cost of Owing a Mess
+## The Total Cost of Owning a Mess
 * Over the span of a year or two, teams that were moving very fast at the beginning of a project can find themselves moving at a snail’s pace. Every change they make to the code breaks two or three other parts of the code. No change is trivial.
 * Every addition or modification to the system requires that the tangles, twists, and knots be “understood” so that more tangles, twists, and knots can be added. Over time the mess becomes so big and so deep and so tall, they can not clean it up. There is no way at all.
 * As the mess builds, the productivity of the team continues to decrease, asymptotically approaching zero.
