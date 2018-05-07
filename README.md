@@ -5,7 +5,7 @@
 1. [Clean Code](#clean-code)
     * [There Will Be Code](#there-will-be-code)
     * [Bad Code](#bad-code)
-    * [The Total Cost of Owing a Mess](#the-total-cost-of-owning a Mess)
+    * [The Total Cost of Owning a Mess](#the-total-cost-of-owning-a-mess)
     * [We are Authors](#we-are-authors)
 
 # 1. Clean Code
